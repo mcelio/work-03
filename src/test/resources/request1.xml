@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ws="http://ws.vectorx.org/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <ws:isDayOff>
+         <!--Optional:-->
+         <arg0>2015-12-25 00:00:00</arg0>
+      </ws:isDayOff>
+   </soapenv:Body>
+</soapenv:Envelope>

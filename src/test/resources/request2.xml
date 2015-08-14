@@ -1,0 +1,6 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ws="http://ws.vectorx.org/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <ws:getNextDayOff/>
+   </soapenv:Body>
+</soapenv:Envelope>
